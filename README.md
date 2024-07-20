@@ -14,5 +14,5 @@ g++ extract.cc -fpermissive
 ./a.out
 
 
-![Alt text](relative%20darktable.png?raw=true "Recovered files")
+![Alt text](./darktable.png?raw=true "Recovered files")
 
