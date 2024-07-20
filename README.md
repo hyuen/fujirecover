@@ -12,3 +12,7 @@ extract a RAW file for each file encountered
 
 g++ extract.cc -fpermissive
 ./a.out
+
+
+![Alt text](relative%20darktable.png?raw=true "Recovered files")
+
